@@ -1,0 +1,25 @@
+{
+  "name": "artisinal-code",
+  "version": "1.0.0",
+  "description": "Artisinal Code crafts decor for the world's best programers to adorn thier code blocks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modster/artisinal-code.git"
+  },
+  "keywords": [
+    "nodejs",
+    "terminal",
+    "text",
+    "chalk"
+  ],
+  "author": "modster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/modster/artisinal-code/issues"
+  },
+  "homepage": "https://github.com/modster/artisinal-code#readme"
+}
